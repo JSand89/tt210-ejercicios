@@ -39,7 +39,6 @@ btn.addEventListener("click",()=>{
         hijo.innerHTML =`el  ${numero} no es primo`
     }
     salida.appendChild(hijo)
-
 })
 
 
